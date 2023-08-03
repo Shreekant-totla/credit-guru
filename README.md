@@ -1,6 +1,9 @@
 # Credit Guru
 Welcome to Credit Guru, an online platform that offers users the ability to apply for various types of loans and credit cards. This README file provides an overview of the project, its features, and instructions for setting up and running the website locally.
 
+# Deployed JSON server
+https://creditguru.onrender.com/
+
 # Features
 Loan Application: Users can easily apply for different types of loans, including personal loans, mortgages, auto loans, student loans, and more. The application process is simplified and streamlined for a convenient user experience.
 
