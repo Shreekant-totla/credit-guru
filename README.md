@@ -26,27 +26,27 @@ Database: Json server
 
 
 # Contact
-If you have any questions, suggestions, or concerns about the Credit Guru project, please contact us at jha.chakresh2001@gmail.com.com.
+If you have any questions, suggestions, or concerns about the Credit Guru project, please contact us at shreekanttotla3@gmail.com
 
 Thank you for using Credit Guru! We hope you find it helpful and empowering for your financial journey.
 
 # Image :- 
 
 ## LANDING PAGE :- 
-![CREDITGURU LANDING PAGE](https://github.com/Shreekant-totla/wonderful-sound/assets/120241122/6bc289e9-62cb-4583-ae1b-721184cc616c)
+![CREDITGURU LANDING PAGE](https://github.com/Chakresh2001/wonderful-sound/assets/120241122/6bc289e9-62cb-4583-ae1b-721184cc616c)
 
 ## LOGIN && SIGNUP PAGE :-
 
-![LOGIN PAGE](https://github.com/Shreekant-totla/wonderful-sound/assets/120241122/2215897f-493f-42c9-9fcf-21551d07ca36)
+![LOGIN PAGE](https://github.com/Chakresh2001/wonderful-sound/assets/120241122/2215897f-493f-42c9-9fcf-21551d07ca36)
 
 
 ## CREDIT CARDS PAGE :- 
-![CREDIT CARDS PAGE](https://github.com/Shreekant-totla/wonderful-sound/assets/120241122/5448a606-10c1-4405-aa67-129fc58dae80)
+![CREDIT CARDS PAGE](https://github.com/Chakresh2001/wonderful-sound/assets/120241122/5448a606-10c1-4405-aa67-129fc58dae80)
 
 ## CREDIT GURU LOAN FORM PAGE :-
 
-![LOAN FORM PAGE](https://github.com/Shreekant-totla/wonderful-sound/assets/120241122/7b255193-4d7e-4198-a682-f6185031d1c5)
+![LOAN FORM PAGE](https://github.com/Chakresh2001/wonderful-sound/assets/120241122/7b255193-4d7e-4198-a682-f6185031d1c5)
 
 ## ADMIN PAGE :- 
 
-![CREDITGURU ADMIN_PAGE](https://github.com/Shreekant-totla/wonderful-sound/assets/120241122/68c4de85-23f7-4c77-a8c0-f9667090bb86)
+![CREDITGURU ADMIN_PAGE](https://github.com/Chakresh2001/wonderful-sound/assets/120241122/68c4de85-23f7-4c77-a8c0-f9667090bb86)
