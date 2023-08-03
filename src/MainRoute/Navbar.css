@@ -1,0 +1,9 @@
+.onHover-NavLink:hover{
+    border-radius: 20px;
+    background-color: #008701;
+    color: white;
+}
+.onHover-NavLink{
+    padding: 3px;
+    color: #5B5F66;
+}
