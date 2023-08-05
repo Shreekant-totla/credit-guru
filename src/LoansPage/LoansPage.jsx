@@ -48,7 +48,7 @@ export const LoansPage = () => {
         <Flex direction="column" textAlign="left"  w="43%" ml="250px" mt="50px">
             <Heading fontSize="55px" color="#1c1b1b">Home Loans: Compare Rates 2023</Heading>
             <Text fontSize="15px" color="#1c1b1b" pt="18px">Need extra funds? Compare offers for up to $50,000 and see if you can get the money you’re looking for.</Text>
-            <Button w="500px" ml="60px" mt="15px" backgroundColor="#008600" color="white" _hover={{backgroundColor:"#008600"}}>Find a Loan</Button>
+            <Link to={"/loan-form"}><Button w="500px" ml="60px" mt="15px" backgroundColor="#008600" color="white" _hover={{backgroundColor:"#008600"}}>Find a Loan</Button></Link>
             <Link><Text fontSize="15px" color="#1c1b1b" mt="15px" mb="70px"><u>Not a member? Sign up here</u></Text></Link>
         </Flex>
         </Flex>
@@ -61,7 +61,7 @@ export const LoansPage = () => {
         <Flex direction="column" textAlign="left"  w="43%" ml="250px" mt="50px">
             <Heading fontSize="55px" color="white">Education Loans: Compare Rates 2023</Heading>
             <Text fontSize="15px" color="white" pt="18px">Need extra funds? Compare offers for up to $50,000 and see if you can get the money you’re looking for.</Text>
-            <Button w="500px" ml="60px" mt="15px" backgroundColor="#008600" color="white" _hover={{backgroundColor:"#008600"}}>Find a Loan</Button>
+            <Link to={"/loan-form"}><Button w="500px" ml="60px" mt="15px" backgroundColor="#008600" color="white" _hover={{backgroundColor:"#008600"}}>Find a Loan</Button></Link>
             <Link><Text fontSize="15px" color="white" mt="15px" mb="70px"><u>Not a member? Sign up here</u></Text></Link>
         </Flex>
     
@@ -79,7 +79,7 @@ export const LoansPage = () => {
         <Flex direction="column" textAlign="left"  w="43%" ml="250px" mt="50px">
             <Heading fontSize="55px" color="black">New and Used Vehicle Loan</Heading>
             <Text fontSize="15px" color="black" pt="18px">Whether brand new or new to you, your dream car is just a few clicks away.</Text>
-            <Button w="500px" ml="60px" mt="15px" backgroundColor="#008600" color="white" _hover={{backgroundColor:"#008600"}}>Find a Loan</Button>
+            <Link to={"/loan-form"}><Button w="500px" ml="60px" mt="15px" backgroundColor="#008600" color="white" _hover={{backgroundColor:"#008600"}}>Find a Loan</Button></Link>
             <Link><Text fontSize="15px" color="black" mt="15px"  mb="70px"><u>Not a member? Sign up here</u></Text></Link>
         </Flex>
     

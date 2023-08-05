@@ -3,7 +3,7 @@ import React from 'react'
 
 export const Footer = () => {
   return (
-    <div style={{backgroundColor:"black" , marginTop:"-40px"}}>
+    <div style={{backgroundColor:"black"}}>
     <Box mt="50px" padding={"30px"} fontSize={"12.8px"} textAlign={"center"} color={"white"}>
         <Text>The Credit Builder plan is serviced by SeedFi and requires a no-fee SeedFi line of credit and SeedFi savings account provided by Cross River Bank, Member FDIC. You’re eligible to apply</Text>
         <Text>through Credit Karma Money if your TransUnion credit score is 619 or below at the time of application. With Credit Builder, you may be able to elect to enroll in the optional AutoSave</Text>
